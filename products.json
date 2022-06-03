@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": " Alaskan Malamute",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./photos/dog1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Cavador",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./photos/dog2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Pitsky",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./photos/dog3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Biewer Terrier",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./photos/dog4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "American Eskimo",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./photos/dog5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Bullador",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./photos/dog9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Cavapoo",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./photos/dog7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Boglen Terrier",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./photos/dog10.jpg" } } }
+      }
+    }
+  ]
+}
